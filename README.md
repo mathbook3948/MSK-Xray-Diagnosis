@@ -5,6 +5,8 @@
 
 ## 모델 다운로드
 <a href="https://drive.google.com/drive/folders/1OcVEyn9CKnmMJy67T7yGhyklZOvVY-jz?usp=sharing">Google Drive</a>
+## 데이터셋
+<a href="https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=data&dataSetSn=501">AIHub</a>
 
 ## 데이터셋
 - X-ray 영상 데이터
